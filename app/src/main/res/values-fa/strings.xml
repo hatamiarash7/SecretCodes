@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2017 - All Rights Reserved - Arash Hatami
+  -->
+<resources>
+    <string name="app_name" translatable="false">کدهای مخفی</string>
+    <string name="about_body">این برنامه به شما کمک می کند تا تمامی کدهایی که توسط برنامه شماره گیر قابل استفاده هستند را مشاهده کنید</string>
+    <string name="action_about">درباره</string>
+    <string name="action_close">بستن</string>
+    <string name="execute_code">اجرای *#*#%1$s#*#* …</string>
+    <string name="action_start">شروع جستجو</string>
+    <string name="zero_secret_codes">هیچ کد مخفی برای دستگاه شما وجود ندارد …</string>
+    <string name="security_exception">دستگاه شما از اجرای مستقیم پشتیبانی نمی کند. به صورت دستی کد را اجرا کنید.</string>
+    <string name="arash">آرش حاتمی</string>
+    <string name="rate">امتیاز دهید</string>
+</resources>
