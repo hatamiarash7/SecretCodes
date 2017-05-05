@@ -2,7 +2,7 @@
   ~ Copyright (c) 2017 - All Rights Reserved - Arash Hatami
   -->
 <resources>
-    <string name="app_name" translatable="false">Secret Codes</string>
+    <string name="app_name">Secret Codes</string>
     <string name="app_name_and_version" translatable="false"><![CDATA[
     <b>Secret Codes</b>&nbsp;<font color="#888888">v%1$s</font>
     ]]></string>

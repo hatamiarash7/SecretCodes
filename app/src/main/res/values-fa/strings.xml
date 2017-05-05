@@ -2,7 +2,7 @@
   ~ Copyright (c) 2017 - All Rights Reserved - Arash Hatami
   -->
 <resources>
-    <string name="app_name" translatable="false">کدهای مخفی</string>
+    <string name="app_name">کدهای مخفی</string>
     <string name="about_body">این برنامه به شما کمک می کند تا تمامی کدهایی که توسط برنامه شماره گیر قابل استفاده هستند را مشاهده کنید</string>
     <string name="action_about">درباره</string>
     <string name="action_close">بستن</string>
