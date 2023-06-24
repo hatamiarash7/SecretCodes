@@ -28,6 +28,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile 'co.ronash.android:pushe-base:1.2.0'
+    compile 'co.ronash.android:pushe-base:1.6.3'
     compile 'com.google.android.gms:play-services-gcm:10.2.1'
 }
